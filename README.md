@@ -51,7 +51,7 @@ Make sure to replace these values with your specific information before running 
 ## Output
 1. The script will fetch emails matching the search query from your Gmail account.
 
-2. The subject and content of the emails will be extracted and stored in an Excel file. Check "output.xlsx" file for reference. 
+2. The subject and content of the emails will be extracted and stored in an Excel file.
 
 3. If the Excel file already exists, the script will append the new data to it.
 
