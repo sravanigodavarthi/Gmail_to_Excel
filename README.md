@@ -12,7 +12,7 @@ I receive helpful Python tricks emails from Real Python, a great website for imp
 1. Make sure you have Python 3.x and the package manager pip installed.
 2. To install the package in your desired Python environment or interpreter, use the following command:
 
-   pip install git+https://github.com/sravanigodavarthi/Gmail-to-Excel.git
+   pip install git+https://github.com/sravanigodavarthi/Gmail_to_Excel.git
 ## Usage
 You can use the package in your projects or scripts as needed, as shown in the code snippet below:
 
