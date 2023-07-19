@@ -26,5 +26,5 @@ build/
 *.log
 *.tmp
 
-#Exclude excel file
+# Exclude excel file
 *.xlsx
